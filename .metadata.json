@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cubicBsplines",
+    "oncran": true
+  },
+  {
+    "package": "degross",
+    "oncran": true
+  }
+]
