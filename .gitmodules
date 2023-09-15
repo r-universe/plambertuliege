@@ -8,3 +8,6 @@
 [submodule "degross"]
 	path = degross
 	url = https://github.com/plambertuliege/degross
+[submodule "ordgam"]
+	path = ordgam
+	url = https://github.com/plambertuliege/ordgam
