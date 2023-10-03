@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DALSM"]
+	path = DALSM
+	url = https://github.com/plambertuliege/dalsm
 [submodule "cubicBsplines"]
 	path = cubicBsplines
 	url = https://github.com/plambertuliege/cubicbsplines
