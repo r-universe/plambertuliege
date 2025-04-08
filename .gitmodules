@@ -14,3 +14,6 @@
 [submodule "ordgam"]
 	path = ordgam
 	url = https://github.com/plambertuliege/ordgam
+[submodule "tvcure"]
+	path = tvcure
+	url = https://github.com/plambertuliege/tvcure
